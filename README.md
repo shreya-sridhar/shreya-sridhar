@@ -6,7 +6,7 @@ I'm a Full Stack developer from Seattle, Washington.
 **shreya-sridhar/shreya-sridhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 💬 Connect with me on Linkedin
+- 💬 Connect with me on [Linkedin](https://www.linkedin.com/in/shreyasridhariitb/)
 - 📫 How to reach me: shreyamohak@outlook.com / +1 513-291-0841
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I meditate!
@@ -17,7 +17,7 @@ JavaScript, Ruby, HTML, CSS, Ruby on Rails, React, ActiveRecord, SQL, Version Co
 
 Project Highlights:
 
-FreightNot
+FreightNot ( [Frontend](https://github.com/shreya-sridhar/FreightApp) | [Backend](https://github.com/shreya-sridhar/frieghtbackend) ) [Video] () 
 
 A mobile application that enables users book trucks to transport goods as well as track their inventory upon delivery. The application includes a unique customer and driver interface. To know more about the working of the app, please watch a video overview - 
 
@@ -32,7 +32,7 @@ A mobile application that enables users book trucks to transport goods as well a
 Technologies : React-Native, Javascript, Ruby Backend, Google Cloud API,
 Postgresql, Android Dev tools, Mobile App development, Azure Devops tools
 
-Vinyl MarketPlace
+Vinyl MarketPlace ( [Frontend](https://github.com/shreya-sridhar/vinyl-mp-frontend) | [Backend](https://github.com/AlenaTrushnikova/vinyl-mp-backend) ) [Video]() 
 
 Buy and Sell market place for Vinyl CDs/cassettes/records, allowing users to discover their music interests and potential vinyl cd sellers. Built with the ability to chat with buyers and sellers, deployed on Azure.
 
@@ -43,7 +43,7 @@ Buy and Sell market place for Vinyl CDs/cassettes/records, allowing users to dis
 Technologies: React, Ruby, Rails, Websocket , Javascript, Postgresql, Rest API
 integration, JWT Authentication
 
-TravelBug 
+TravelBug ( [Code](https://github.com/shreya-sridhar/travel_itinerary_maker) ) [Video]() 
 
 Travel planning website to manage and plan for attractions, book hotels, explore about destination. Focus was to create best in the class user experience and design to motivate travel planning. Optimized website with custom CSS for mobile and desktop experience for large amount of data. Deployed on Heroku.
 
