@@ -1,18 +1,19 @@
 ### Hi there 👋 I'm Shreya
 
+I'm a Full Stack developer from Seattle, Washington. 
+
 <!--
 **shreya-sridhar/shreya-sridhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
 - 💬 Connect with me on Linkedin
 - 📫 How to reach me: shreyamohak@outlook.com / +1 513-291-0841
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I meditate!
--->
+
+Technical Proficiences:
+
+JavaScript, Ruby, HTML, CSS, Ruby on Rails, React, ActiveRecord, SQL, Version Control Systems, UI Design, Command Lines, Debugging, Object Oriented Design.
 
 Project Highlights:
 
