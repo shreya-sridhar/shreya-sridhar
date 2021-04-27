@@ -6,8 +6,8 @@ Having worked in the core team in one of Asia's largest ride-hailing companies, 
 <!--
 **shreya-sridhar/shreya-sridhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 
 - 💬 Connect with me on [Linkedin](https://www.linkedin.com/in/shreyasridhariitb/)
+- 💻 I blog @ [Medium](https://shreyasridhar1109.medium.com/)
 - 📃 [My resume](https://shreyastorage.blob.core.windows.net/shreyasridhariitbresume/shreya_iitb_resume.pdf) 
 - 📫 How to reach me: shreyamohak@outlook.com / +1 513-291-0841
 - 😄 Pronouns: She/Her
