@@ -17,7 +17,7 @@ Having worked in the core team in one of Asia's largest ride-hailing companies, 
 
 Ruby, Ruby on Rails, React, React Native, Javascript, HTML, CSS, SQL, Presto, Hive, Python, R, Tableau, Scikit Learn (Machine Learning), Analytics
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
 ## Project Highlights:
 
