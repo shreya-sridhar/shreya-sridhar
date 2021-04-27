@@ -19,7 +19,7 @@ Ruby, Ruby on Rails, React, React Native, Javascript, HTML, CSS, SQL, Presto, Hi
 
 ![](https://img.shields.io/badge/<Code>-<Python>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-## Project Highlights:
+## ⭐ Project Highlights:
 
 ### 🚚 FreightNot  [FrontendCode](https://github.com/shreya-sridhar/FreightApp) | [BackendCode](https://github.com/shreya-sridhar/frieghtbackend) | [Video Demo]() 
 
@@ -61,6 +61,8 @@ Technologies: React, Ruby, Rails, Javascript, Postgresql, Rest API integration, 
 A single page web application designed combining the traditional spelling bee game with some strategic gameplay to optimize scoring. 
 
 Technologies: Javascript, Postgresql, HTML5, CSS, Ruby on Rails, Cookies
+
+## 📈 GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreya-sridhar&show_icons=true&theme=radical)
 
