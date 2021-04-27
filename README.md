@@ -60,4 +60,4 @@ A single page web application designed combining the traditional spelling bee ga
 
 Technologies: Javascript, Postgresql, HTML5, CSS, Ruby on Rails, Cookies
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shreya-sridhar&repo=github-readme-stats)](https://github.com/shreya-sridhar/github-readme-stats)
