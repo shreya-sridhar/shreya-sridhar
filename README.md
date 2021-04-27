@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm Shreya
 
-I'm a Full Stack developer from Seattle, Washington. 
+I'm a Full Stack developer from Seattle, Washington experienced in Ruby on Rails, React, React Native & Javascript. I transitioned into software engineering from a data science (analytics) background.
 
+Having worked in the core team in one of Asia's largest ride-hailing companies, Ola (ANI Technologies Pvt. Ltd.), I developed a knack for seeing trends & understanding the impact of various metrics to business. I developed statistical data-driven insights to enable busines decisions. In working alongside software engineering and product teams, I discovered my interest in coding & development.
 <!--
 **shreya-sridhar/shreya-sridhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -14,7 +15,7 @@ I'm a Full Stack developer from Seattle, Washington.
 
 Technical Proficiences:
 
-JavaScript, Ruby, HTML, CSS, Ruby on Rails, React, ActiveRecord, SQL, Version Control Systems, UI Design, Command Lines, Debugging, Object Oriented Design.
+Ruby, Ruby on Rails, React, React Native, Javascript, HTML, CSS, SQL, Presto, Hive, Python, R, Tableau, Scikit Learn (Machine Learning), Analytics
 
 ### Project Highlights:
 
@@ -37,9 +38,8 @@ Postgresql, Android Dev tools, Mobile App development, Azure Devops tools
 
 Buy and Sell market place for Vinyl CDs/cassettes/records, allowing users to discover their music interests and potential vinyl cd sellers. Built with the ability to chat with buyers and sellers, deployed on Azure.
 
-1. Pagination 
-2. Web Sockets
-3. 
+1. Includes a pagination feature to reduce page load times 
+2. Chat application built using web sockets/action cable 
 
 Technologies: React, Ruby, Rails, Websocket , Javascript, Postgresql, Rest API
 integration, JWT Authentication
@@ -52,11 +52,12 @@ Travel planning website to manage and plan for attractions, book hotels, explore
 2. Integrated Google API for maps and directions and OpenTripMap API for retrieving tourism attractions
 3. Frontend interface developed using Bootstrap
 
-Technologies: React, Ruby, Rails, Javascript, Postgresql, Rest API integration,
-JWT Authentication
+Technologies: React, Ruby, Rails, Javascript, Postgresql, Rest API integration, Cookies & Sessions
 
 #### Spelling Bee 🐝
 
+A single page web application designed combining the traditional spelling bee game with some strategic gameplay to optimize scoring. 
 
+Technologies: Javascript, Postgresql, HTML5, CSS, Ruby on Rails, Cookies
 
 
