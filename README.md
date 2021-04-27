@@ -13,13 +13,13 @@ Having worked in the core team in one of Asia's largest ride-hailing companies, 
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I meditate!
 
-Technical Proficiences:
+### 🛠️ Skills:
 
 Ruby, Ruby on Rails, React, React Native, Javascript, HTML, CSS, SQL, Presto, Hive, Python, R, Tableau, Scikit Learn (Machine Learning), Analytics
 
-### Project Highlights:
+## Project Highlights:
 
-#### 🚚 FreightNot  [FrontendCode](https://github.com/shreya-sridhar/FreightApp) | [BackendCode](https://github.com/shreya-sridhar/frieghtbackend) | [Video Demo]() 
+### 🚚 FreightNot  [FrontendCode](https://github.com/shreya-sridhar/FreightApp) | [BackendCode](https://github.com/shreya-sridhar/frieghtbackend) | [Video Demo]() 
 
 A mobile application that enables users book trucks to transport goods as well as track their inventory upon delivery. The application includes a unique customer and driver interface. To know more about the working of the app, please watch a video overview - 
 
@@ -34,7 +34,7 @@ A mobile application that enables users book trucks to transport goods as well a
 Technologies : React-Native, Javascript, Ruby Backend, Google Cloud API,
 Postgresql, Android Dev tools, Mobile App development, Azure Devops tools
 
-#### 🎵 Vinyl MarketPlace [FrontendCode](https://github.com/shreya-sridhar/vinyl-mp-frontend) | [BackendCode](https://github.com/AlenaTrushnikova/vinyl-mp-backend) | [Video Demo]() 
+### 🎵 Vinyl MarketPlace [FrontendCode](https://github.com/shreya-sridhar/vinyl-mp-frontend) | [BackendCode](https://github.com/AlenaTrushnikova/vinyl-mp-backend) | [Video Demo]() 
 
 Buy and Sell market place for Vinyl CDs/cassettes/records, allowing users to discover their music interests and potential vinyl cd sellers. Built with the ability to chat with buyers and sellers, deployed on Azure.
 
@@ -44,7 +44,7 @@ Buy and Sell market place for Vinyl CDs/cassettes/records, allowing users to dis
 Technologies: React, Ruby, Rails, Websocket , Javascript, Postgresql, Rest API
 integration, JWT Authentication
 
-#### ✈️ TravelBug [Code](https://github.com/shreya-sridhar/travel_itinerary_maker) | [Video Demo]() 
+### ✈️ TravelBug [Code](https://github.com/shreya-sridhar/travel_itinerary_maker) | [Video Demo]() 
 
 Travel planning website to manage and plan for attractions, book hotels, explore about destination. Focus was to create best in the class user experience and design to motivate travel planning. Optimized website with custom CSS for mobile and desktop experience for large amount of data. Deployed on Heroku.
 
@@ -54,7 +54,7 @@ Travel planning website to manage and plan for attractions, book hotels, explore
 
 Technologies: React, Ruby, Rails, Javascript, Postgresql, Rest API integration, Cookies & Sessions
 
-#### 🐝 Spelling Bee [Code](https://github.com/danajackson2/spelling-bee) | [Video Demo]()
+### 🐝 Spelling Bee [Code](https://github.com/danajackson2/spelling-bee) | [Video Demo]()
 
 A single page web application designed combining the traditional spelling bee game with some strategic gameplay to optimize scoring. 
 
