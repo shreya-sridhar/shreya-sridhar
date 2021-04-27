@@ -1,8 +1,8 @@
 ### Hi there 👋 I'm Shreya
 
-I'm a Full Stack developer from Seattle, Washington experienced in Ruby on Rails, React, React Native & Javascript. I transitioned into software engineering from a data science (analytics) background.
+I'm a Full Stack developer experienced in Ruby on Rails, React, React Native & Javascript. I transitioned into software engineering from a data science (analytics) background.
 
-Having worked in the core team in one of Asia's largest ride-hailing companies, Ola (ANI Technologies Pvt. Ltd.), I developed a knack for seeing trends & understanding the impact of various metrics to business. I developed statistical data-driven insights to enable busines decisions. In working alongside software engineering and product teams, I discovered my interest in coding & development.
+Having worked in one of Asia's largest ride-hailing companies, Ola (ANI Technologies Pvt. Ltd.), I developed a knack for seeing trends & understanding the impact of various metrics to business. I developed statistical data-driven insights to enable busines decisions. In working alongside software engineering and product teams, I discovered my interest in coding & development.
 <!--
 **shreya-sridhar/shreya-sridhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
