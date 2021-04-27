@@ -60,5 +60,5 @@ A single page web application designed combining the traditional spelling bee ga
 
 Technologies: Javascript, Postgresql, HTML5, CSS, Ruby on Rails, Cookies
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreya-sridhar)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreya-sridhar?theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreya-sridhar&show_icons=true?theme=radical)
