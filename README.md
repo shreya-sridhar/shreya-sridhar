@@ -49,7 +49,7 @@ integration, JWT Authentication
 Travel planning website to manage and plan for attractions, book hotels, explore about destination. Focus was to create best in the class user experience and design to motivate travel planning. Optimized website with custom CSS for mobile and desktop experience for large amount of data. Deployed on Heroku.
 
 1. Developed website using Ruby on Rails using MVC design practices
-2. Integrated Google API for maps and directions and OpenTripMap API for retrieving tourism attractions
+2. Integrated Google API for maps, photos & directions, OpenTripMap API for retrieving tourism attractions and Pixabay for getting videos.
 3. Frontend interface developed using Bootstrap
 
 Technologies: React, Ruby, Rails, Javascript, Postgresql, Rest API integration, Cookies & Sessions
