@@ -6,7 +6,7 @@ Having worked in one of Asia's largest ride-hailing companies, Ola (ANI Technolo
 <!--
 **shreya-sridhar/shreya-sridhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-- 💻 To know more about me, check out my Personal [Website](https://shreya-sridhar.github.io/) 
+- 💻 To know more about me, check out my [Personal Website](https://shreya-sridhar.github.io/) 
 - 💬 Connect with me on [Linkedin](https://www.linkedin.com/in/shreyasridhariitb/)
 - 📝I blog @ [Medium](https://shreyasridhar1109.medium.com/)
 - 📃 [My resume](https://shreyastorage.blob.core.windows.net/shreyasridhariitbresume/shreya_iitb_resume.pdf) 
