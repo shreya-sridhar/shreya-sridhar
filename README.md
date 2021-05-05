@@ -55,7 +55,7 @@ Travel planning website to manage and plan for attractions, book hotels, explore
 
 Technologies: React, Ruby, Rails, Javascript, Postgresql, Rest API integration, Cookies & Sessions
 
-### 🐝 Spelling Bee [Code](https://github.com/danajackson2/spelling-bee) | [Video Demo]()
+### 🐝 Spelling Bee [Code](https://github.com/danajackson2/spelling-bee) | [Video Demo](https://www.youtube.com/watch?v=vnxJSvTS2KM)
 
 A single page web application designed combining the traditional spelling bee game with some strategic gameplay to optimize scoring. 
 
