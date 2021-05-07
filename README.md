@@ -45,7 +45,7 @@ Buy and Sell market place for Vinyl CDs/cassettes/records, allowing users to dis
 Technologies: React, Ruby, Rails, Websocket , Javascript, Postgresql, Rest API
 integration, JWT Authentication
 
-### ✈️ TravelBug  [Website](https://travellerbug.herokuapp.com/) | [Code](https://github.com/shreya-sridhar/travel_itinerary_maker) | [Video Demo]() 
+### ✈️ TravelBug  [Website](https://travellerbug.herokuapp.com/) | [Code](https://github.com/shreya-sridhar/travel_itinerary_maker) | [Video Demo](https://www.youtube.com/watch?v=y4_sh7RIJ5g) 
 
 Travel planning website to manage and plan for attractions, book hotels, explore about destination. Focus was to create best in the class user experience and design to motivate travel planning. Optimized website with custom CSS for mobile and desktop experience for large amount of data. Deployed on Heroku.
 
