@@ -35,7 +35,7 @@ A mobile application that enables users book trucks to transport goods as well a
 Technologies : React-Native, Javascript, Ruby Backend, Google Cloud API,
 Postgresql, Android Dev tools, Mobile App development, Azure Devops tools
 
-### 🎵 Vinyl MarketPlace [Website](https://vinyl-marketplace.herokuapp.com/) | [FrontendCode](https://github.com/shreya-sridhar/vinyl-mp-frontend) | [BackendCode](https://github.com/AlenaTrushnikova/vinyl-mp-backend) | [Video Demo]() 
+### 🎵 Vinyl MarketPlace [Website](https://vinyl-marketplace.herokuapp.com/) | [FrontendCode](https://github.com/shreya-sridhar/vinyl-mp-frontend) | [BackendCode](https://github.com/AlenaTrushnikova/vinyl-mp-backend) | [Video Demo](https://www.youtube.com/watch?v=wMpuqB--8tk) 
 
 Buy and Sell market place for Vinyl CDs/cassettes/records, allowing users to discover their music interests and potential vinyl cd sellers. Built with the ability to chat with buyers and sellers, deployed on Azure.
 
