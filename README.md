@@ -53,7 +53,7 @@ Travel planning website to manage and plan for attractions, book hotels, explore
 2. Integrated Google API for maps, photos & directions, OpenTripMap API for retrieving tourism attractions and Pixabay for getting videos.
 3. Frontend interface developed using Bootstrap
 
-Technologies: React, Ruby, Rails, Javascript, Postgresql, Rest API integration, Cookies & Sessions
+Technologies: Ruby, Rails, Javascript, Postgresql, Rest API integration, Cookies & Sessions
 
 ### 🐝 Spelling Bee [Code](https://github.com/danajackson2/spelling-bee) | [Video Demo](https://www.youtube.com/watch?v=vnxJSvTS2KM)
 
